@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IoT BeeHive Monitoring</string>
+    <string name="humidity">Humidity</string>
+</resources>

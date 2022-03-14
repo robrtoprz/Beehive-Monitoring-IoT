@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=GND New Net Name=-Vo
+Change Net Name : Old Net Name=NetU2_19 New Net Name=+Vo
+Added Room: Name=Sheet1

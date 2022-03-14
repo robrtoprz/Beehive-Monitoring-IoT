@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=Sheet1 Member=J?
+Added Component: Designator=PS(CONV_HLK-5M05)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hi-link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HLK-5M05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HLK-5M05/Hi-link/view-part/2758659/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(PCBComponent_1)
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component PS HLK-5M05
+Added Member To Class: ClassName=Sheet1 Member=Component U? 2p JST 2.54mm pitch
+Added Room: Name=Sheet1

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetP2_2 Pin=U2-7
+Removed Pin From Net: NetName=NetP3_3 Pin=U2-11
+Removed Pin From Net: NetName=NetP1_1 Pin=U2-28
+Added Pin To Net: NetName=NetP1_1 Pin=U2-5
+Added Pin To Net: NetName=NetP3_3 Pin=U2-6
+Added Pin To Net: NetName=NetP2_2 Pin=U2-8
+Added Member To Class: ClassName=Sheet1 Member=Component P3 IR SENSOR
+Added Room: Name=Sheet1
